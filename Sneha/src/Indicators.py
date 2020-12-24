@@ -90,7 +90,7 @@ class EMA(bt.Strategy):
                 self.log("Closing the long postion at %s" % self.data.close[0])
                 # Keep track of the created order to avoid a 2nd order
                 self.order = self.sell()
-             # exiting the long position  
+             # exiting the short position  
             if self.position.size<0 and self.data.close[0]<self.ema:
                 self.log("Closing the short postion at %s" % self.data.close[0])
                 # Keep track of the created order to avoid a 2nd order
@@ -448,7 +448,7 @@ class Boll_Bands(bt.Strategy):
         else:
             # exiting the long position(Reaching the midline is a good target)
             if self.position.size>0 and self.data.close >= self.bband.lines.mid:
-                # SELL, SELL, SELL!!! (with all possible default parameters)
+                # Sell
                 self.log("Closing the long postion at %s" % self.data.close[0])
                 # Keep track of the created order to avoid a 2nd order
                 self.order = self.close()
