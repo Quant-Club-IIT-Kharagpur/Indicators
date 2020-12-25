@@ -1,2 +1,2 @@
-# QC_Indicators
-Implementation of technical indicators
+# Technical Indicators
+Implementation of technical indicators in python using backtrader library
