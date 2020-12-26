@@ -1,0 +1,9 @@
+  
+The Softwares and Libraries essential to code Indicators :
+
+--Anaconda
+--Jupyter Notebook
+--Pandas
+--Numpy
+--Matplotlib
+--Backtrader
