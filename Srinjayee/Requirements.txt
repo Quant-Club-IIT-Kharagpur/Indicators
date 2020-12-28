@@ -1,0 +1,3 @@
+Required python libraries are:
+1.  Backtrader:  for installation refer to: https://www.backtrader.com/docu/installation/
+2.  datetime
