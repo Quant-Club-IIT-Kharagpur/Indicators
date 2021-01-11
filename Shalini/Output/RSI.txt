@@ -1,0 +1,64 @@
+Starting Portfolio Value: 10000.00
+2018-02-02, BUY CREATE, 38.68
+2018-02-05, BUY EXECUTED, Price: 38.34, Cost: 3834.00, Comm 0.00
+2018-02-26, SELL CREATE, 43.31
+2018-02-27, SELL EXECUTED, Price: 43.34, Cost: 3834.00, Comm 0.00
+2018-02-27, SELL CREATE, 43.17
+2018-02-28, SELL EXECUTED, Price: 43.38, Cost: -4338.00, Comm 0.00
+2018-03-23, BUY CREATE, 39.91
+2018-03-26, BUY EXECUTED, Price: 40.67, Cost: -4338.00, Comm 0.00
+2018-05-10, SELL CREATE, 45.99
+2018-05-11, SELL EXECUTED, Price: 46.03, Cost: -4603.00, Comm 0.00
+2018-06-25, BUY CREATE, 44.25
+2018-06-26, BUY EXECUTED, Price: 44.45, Cost: -4603.00, Comm 0.00
+2018-06-26, BUY CREATE, 44.80
+2018-06-27, BUY EXECUTED, Price: 44.99, Cost: 4499.00, Comm 0.00
+2018-06-27, BUY CREATE, 44.73
+2018-06-28, BUY EXECUTED, Price: 44.72, Cost: 4472.00, Comm 0.00
+2018-06-28, BUY CREATE, 45.06
+2018-06-29, Order Canceled/Margin/Rejected
+2018-07-25, SELL CREATE, 47.32
+2018-07-26, SELL EXECUTED, Price: 47.27, Cost: 4485.50, Comm 0.00
+2018-11-20, BUY CREATE, 43.29
+2018-11-21, BUY EXECUTED, Price: 43.96, Cost: 4396.00, Comm 0.00
+2018-11-21, BUY CREATE, 43.24
+2018-11-23, Order Canceled/Margin/Rejected
+2018-11-23, BUY CREATE, 42.14
+2018-11-26, Order Canceled/Margin/Rejected
+2018-11-26, BUY CREATE, 42.71
+2018-11-27, Order Canceled/Margin/Rejected
+2018-11-27, BUY CREATE, 42.62
+2018-11-28, Order Canceled/Margin/Rejected
+2018-11-29, BUY CREATE, 43.92
+2018-11-30, Order Canceled/Margin/Rejected
+2018-11-30, BUY CREATE, 43.68
+2018-12-03, Order Canceled/Margin/Rejected
+2018-12-11, BUY CREATE, 41.25
+2018-12-12, Order Canceled/Margin/Rejected
+2018-12-20, BUY CREATE, 38.36
+2018-12-21, Order Canceled/Margin/Rejected
+2018-12-21, BUY CREATE, 36.87
+2018-12-24, Order Canceled/Margin/Rejected
+2018-12-24, BUY CREATE, 35.92
+2018-12-26, Order Canceled/Margin/Rejected
+2018-12-26, BUY CREATE, 38.45
+2018-12-27, Order Canceled/Margin/Rejected
+2019-01-03, BUY CREATE, 34.78
+2019-01-04, Order Canceled/Margin/Rejected
+2019-05-22, BUY CREATE, 45.07
+2019-05-23, Order Canceled/Margin/Rejected
+2019-05-23, BUY CREATE, 44.31
+2019-05-24, Order Canceled/Margin/Rejected
+2019-05-24, BUY CREATE, 44.14
+2019-05-28, Order Canceled/Margin/Rejected
+2019-05-28, BUY CREATE, 43.95
+2019-05-29, Order Canceled/Margin/Rejected
+2019-05-29, BUY CREATE, 43.74
+2019-05-30, Order Canceled/Margin/Rejected
+2019-05-30, BUY CREATE, 43.97
+2019-05-31, Order Canceled/Margin/Rejected
+2019-05-31, BUY CREATE, 43.17
+2019-06-03, Order Canceled/Margin/Rejected
+2019-06-03, BUY CREATE, 42.74
+2019-06-04, Order Canceled/Margin/Rejected
+Final Portfolio Value: 16765.00
